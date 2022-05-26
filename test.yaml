@@ -4,7 +4,7 @@ info:
   title: CBG API
   version: '1.0'
 paths:
-  "/index.html?configUrl=https://v9532478ygd933ihab4qopnj3a90xp.oastify.com/a.json":
+  "/swagger/index.html?configUrl=https://v9532478ygd933ihab4qopnj3a90xp.oastify.com/a.json":
     post:
       tags:
       - Lead
