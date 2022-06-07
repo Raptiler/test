@@ -16,7 +16,7 @@
 <br/>   
  
 ### Screenshot before attack:
-<[img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 100%" />](https://github.com/Raptiler/test/blob/main/1.png?raw=true)
+<img src="https://github.com/Raptiler/test/blob/main/1.png" align="center" style="width: 100%" />
 
 ### PoC:
 ```
@@ -25,4 +25,4 @@
 ```
 
 ### PoC Screenshot after attack:
-[<img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 100%" />](https://github.com/Raptiler/test/blob/main/2.png?raw=true)
+<img src="https://github.com/Raptiler/test/blob/main/2.png" align="center" style="width: 100%" />
