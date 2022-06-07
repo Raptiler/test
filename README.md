@@ -9,9 +9,8 @@
 
 
 ### Description:  
-#### <div align="center">Swagger UI before 4.1.3 could allow a remote attacker to conduct spoofing attacks. By persuading a victim to open a crafted URL, an attacker could exploit this vulnerability to display remote OpenAPI definitions.
+#### Swagger UI before 4.1.3 could allow a remote attacker to conduct spoofing attacks. By persuading a victim to open a crafted URL, an attacker could exploit this vulnerability to display remote OpenAPI definitions.
 
-</div>  
   
 <br/>   
  
@@ -26,3 +25,5 @@
 
 ### PoC Screenshot after attack:
 <img src="https://github.com/Raptiler/test/blob/main/2.png" align="center" style="width: 100%" />
+
+##### Tested on Swagger UI 3.52.1
