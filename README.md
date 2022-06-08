@@ -2,7 +2,7 @@
 
 ### CVE-2018-25031  
 <div align="center">
-<img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 50%" />
+<img src="https://afine.pl/wp-content/uploads/2017/06/afine2.png" align="center" style="width: 40%" />
 </div>  
   
 
@@ -28,7 +28,7 @@
 
 ### References:
 
-<a href="https://nvd.nist.gov/vuln/detail/CVE-2018-25031">https://nvd.nist.gov/vuln/detail/CVE-2018-25031</a>
+<a href="https://nvd.nist.gov/vuln/detail/CVE-2018-25031">https://nvd.nist.gov/vuln/detail/CVE-2018-25031</a><br>
 <a href="https://deps.dev/advisory/GHSA/GHSA-cr3q-pqgq-m8c2">https://deps.dev/advisory/GHSA/GHSA-cr3q-pqgq-m8c2</a>
 
 ##### Tested on Swagger UI 3.52.1
