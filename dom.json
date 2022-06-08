@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/Raptiler/test/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/Raptiler/test/main/dom.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/Raptiler/test/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/Raptiler/test/main/dom.yaml",
             "name": "Foo"
         }
     ]
